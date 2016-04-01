@@ -1,0 +1,15 @@
+.tp-priorities {
+  position: absolute;
+
+  right: 40px;
+  top: 40px;
+
+  font-family: Helvetica, Arial;
+
+  background: #F3F4F3;
+  padding: 5px;
+}
+
+.tp-priorities .tp-value.high {
+  font-weight: bold;
+}
