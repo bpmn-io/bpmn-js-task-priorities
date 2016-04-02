@@ -2,7 +2,7 @@
 
 Extend [bpmn-js](https://github.com/bpmn-io/bpmn-js) to define tasks priorities while modeling.
 
-![Task priorities in bpmn-js](https://github.com/bpmn-io/task-priorities/blob/master/resources/screencast.gif)
+![Task priorities in bpmn-js](https://raw.githubusercontent.com/bpmn-io/bpmn-js-task-priorities/master/resources/screencast.gif)
 
 
 ## Features
