@@ -1,7 +1,7 @@
 {
-  "name": "task-priorities",
+  "name": "bpmn-js-task-priorities",
   "version": "0.0.1",
-  "description": "Visual task priority support ",
+  "description": "A BPMN modeler with support for modeling task priorities visually",
   "main": "index.js",
   "scripts": {
     "test": "karma start test/config/karma.unit.js --no-auto-watch --single-run",
