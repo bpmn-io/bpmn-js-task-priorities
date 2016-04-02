@@ -30,6 +30,20 @@ var modeler = new PriorityAwareModeler();
 modeler.importXML(annotatedBpmnXml, ...);
 ```
 
+Or use the provided [extension module](https://github.com/bpmn-io/bpmn-js-task-priorities/tree/master/lib/priorities) with [bpmn-js](https://github.com/bpmn-io/bpmn-js):
+
+```javascript
+var Modeler = require('bpmn-js/lib/Modeler');
+
+var prioritiesModule = require('bpmn-js-task-priorities/lib/priorities');
+
+var modeler = new Modeler({
+  additionalModules: [
+    prioritiesModule
+  ]
+});
+```
+
 Specify tasks colors in XML and read the serialized `tp:color` and `tp:priority` extension attributes:
 
 ```xml
