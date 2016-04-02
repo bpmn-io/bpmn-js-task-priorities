@@ -23,7 +23,7 @@ npm install bpmn-js-task-priorities
 Use the modeler as part of your application:
 
 ```javascript
-var PriorityAwareModeler = require('bpmn-js-task-priority/lib/PriorityAwareModeler');
+var PriorityAwareModeler = require('bpmn-js-task-priorities/lib/PriorityAwareModeler');
 
 var modeler = new PriorityAwareModeler();
 
