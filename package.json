@@ -1,6 +1,6 @@
 {
   "name": "bpmn-js-task-priorities",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A BPMN modeler with support for modeling task priorities visually",
   "main": "index.js",
   "scripts": {
