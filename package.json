@@ -7,7 +7,20 @@
     "test": "karma start test/config/karma.unit.js --no-auto-watch --single-run",
     "test:watch": "karma start test/config/karma.unit.js"
   },
-  "author": "bpmn.io <https://bpmn.io>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bpmn-io/bpmn-js-task-priorities"
+  },
+  "author": {
+    "name": "Nico Rehwaldt",
+    "url": "https://github.com/nikku"
+  },
+  "contributors": [
+    {
+      "name": "bpmn.io contributors",
+      "url": "https://github.com/bpmn-io"
+    }
+  ],
   "license": "MIT",
   "dependencies": {
     "bpmn-js": "^0.14.1",
