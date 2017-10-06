@@ -26,7 +26,8 @@
     "bpmn-js": "^0.22.1",
     "diagram-js": "^0.21.1",
     "inherits": "^2.0.1",
-    "min-dom": "^0.2.0"
+    "min-dom": "^0.2.0",
+    "tiny-svg": "^0.1.1"
   },
   "devDependencies": {
     "browserify": "^13.0.0",
@@ -43,7 +44,7 @@
     "mocha": "^2.4.5",
     "mocha-test-container-support": "^0.2.0",
     "phantomjs": "^1.9.20",
-    "sinon": "^1.17.3",
+    "sinon": "^2.4.1",
     "sinon-chai": "^2.8.0",
     "stringify": "^5.1.0",
     "watchify": "^3.7.0"
