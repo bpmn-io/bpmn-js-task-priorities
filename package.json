@@ -23,8 +23,8 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "bpmn-js": "^0.14.1",
-    "diagram-js": "^0.14.1",
+    "bpmn-js": "^0.22.1",
+    "diagram-js": "^0.21.1",
     "inherits": "^2.0.1",
     "min-dom": "^0.2.0"
   },
