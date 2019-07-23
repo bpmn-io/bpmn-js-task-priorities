@@ -1,3 +1,8 @@
+> This extension was written once as an [April Fool's day](https://en.wikipedia.org/wiki/April_Fools%27_Day) demonstration.
+> 
+> Have a look, learn, get inspired. Do not use it, even though you could :pray:.
+
+
 # Visual Task Priorities for bpmn-js
 
 Extend [bpmn-js](https://github.com/bpmn-io/bpmn-js) to define tasks priorities while modeling.
